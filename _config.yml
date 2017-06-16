@@ -1,0 +1,71 @@
+typography_spectrum: 0.8588213494550068
+color:
+  brandStrength: 0.8920896250377456
+  lightness: 0.3763563069964916
+  saturation: 0.37086316727747276
+  rhythmicContrast: 0.40408625633382045
+  brandColors:
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
+layout_spectrum: 0.5914869558929217
+author:
+  url: 'http://macbookpro.ist'
+  name: Roots Music
+  email: info@giv.me
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c01728e-aba8-4dd1-a253-9fd582acd2ae.png
+name: theRiverSouth
+url: 'http://theriversouth.com'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: CONTACT
+    id: 936b0e20-bf2c-48ad-9179-f716bc58442d
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d21e5c2b-a2d0-4bd9-a8a2-b6d57db677a4.ico
+title: The River South
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51ec2b27-af47-49c1-94cf-74b15f4e0eeb.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/51ec2b27-af47-49c1-94cf-74b15f4e0eeb.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Roots Music from Ashland, Oregon'
+purpose:
+  - type: internal
+    label: INFO
+    item: 459baf08-cd82-4c1f-bc13-9073698961e7
+  - type: internal
+    label: PRESS
+    item: 7bd931bd-6a1d-418d-9d04-1b3b33aa2dac
+analytics:
+  google: UA-101096226-1
+github: true
