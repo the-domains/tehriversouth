@@ -1,10 +1,8 @@
 ---
 inFeed: true
-description: >-
-  July 21 - Talent Evening Market, Downtown Park, Talent (Krister, Michael, and
-  Jinnee) - 6pm to 8pm
-dateModified: '2017-10-31T18:35:18.307Z'
-datePublished: '2017-10-31T18:35:18.898Z'
+description: Spring dates coming soon.
+dateModified: '2017-10-31T18:36:56.397Z'
+datePublished: '2017-10-31T18:36:57.180Z'
 title: Live Shows
 author: []
 publisher: {}
@@ -17,15 +15,15 @@ _type: Blurb
 ---
 # Live Shows
 
-## COMING UP
-
-_July 21 - _**Talent Evening Market**, Downtown Park, Talent (Krister, Michael, and Jinnee) - 6pm to 8pm
-
-July 28 - **Morrton's Pub**, Medford (Krister, Michael, and Jinnee) - 7pm to 9pm
+Spring dates coming soon.
 
 ## HISTORICAL
 
 ## 2017
+
+_July 21 - _**Talent Evening Market**, Downtown Park, Talent (Krister, Michael, and Jinnee) - 6pm to 8pm
+
+July 28 - **Morrton's Pub**, Medford (Krister, Michael, and Jinnee) - 7pm to 9pm
 
 _May 12 - _**Opening for Shiny Penny,** Walkabout Brewing Company, Medford (Krister, Michael, and Jinnee)
 
