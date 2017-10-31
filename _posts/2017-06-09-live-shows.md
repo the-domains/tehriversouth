@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   July 21 - Talent Evening Market, Downtown Park, Talent (Krister, Michael, and
   Jinnee) - 6pm to 8pm
-dateModified: '2017-07-19T16:39:20.949Z'
-datePublished: '2017-07-19T16:39:22.255Z'
+dateModified: '2017-10-31T18:35:18.307Z'
+datePublished: '2017-10-31T18:35:18.898Z'
 title: Live Shows
 author: []
 publisher: {}
