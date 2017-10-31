@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Spring dates coming soon.
-dateModified: '2017-10-31T18:36:56.397Z'
-datePublished: '2017-10-31T18:36:57.180Z'
+dateModified: '2017-10-31T18:37:37.943Z'
+datePublished: '2017-10-31T18:37:38.694Z'
 title: Live Shows
 author: []
 publisher: {}
@@ -21,11 +21,11 @@ Spring dates coming soon.
 
 ## 2017
 
+_May 12 - _**Opening for Shiny Penny,** Walkabout Brewing Company, Medford (Krister, Michael, and Jinnee)
+
 _July 21 - _**Talent Evening Market**, Downtown Park, Talent (Krister, Michael, and Jinnee) - 6pm to 8pm
 
 July 28 - **Morrton's Pub**, Medford (Krister, Michael, and Jinnee) - 7pm to 9pm
-
-_May 12 - _**Opening for Shiny Penny,** Walkabout Brewing Company, Medford (Krister, Michael, and Jinnee)
 
 ## 2016
 
